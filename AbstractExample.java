@@ -3,7 +3,7 @@ package abstractexample;
 
 abstract class Super
 {
-    public Super() { System.out.println("Super Constructor"); }
+    public Super() { System.out.println("Super Consructor"); }
     
     public void meth1()
     {
